@@ -11,11 +11,6 @@
             "associated-metadata": {},
             "name": "Top Story - Home",
             "slug": "top-story-home",
-            "template": "top-story",
-            "metadata": {
-                "section-banner-iframe-url": null,
-                "cover-image": {}
-            }
         },
         {
             "id": "f243e7db-1371-4f05-a483-82222fe65cf8",
